@@ -1,0 +1,7 @@
+-👋 Hi, I’m @Claytonedc  
+- 👀 I’m interested in Mobile App Development  
+- 🌱 I’m currently learning Flutter  
+- 💞️ I’m looking to collaborate on mobile app projects and Flutter development  
+- 📫 You can reach me via WhatsApp: +255711311363 or email: claytonecurth@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love exploring new technologies and creating innovative solutions with code!
